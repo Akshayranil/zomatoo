@@ -1,0 +1,337 @@
+
+body{
+    background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png"  );
+    background-repeat: no-repeat;
+    background-size: 1550px 440px;
+    overflow-x: hidden;
+    height: 590px;
+    
+}
+.a1{
+    color: white;
+    top: -30px;
+    position: relative;
+    right: -254px;
+    font-size: 18px;
+    font-family: Okra, Helvetica, sans-serif;
+}
+.a2{
+    position: relative;
+    top: -30px;
+    right: -680px;
+}
+.a3{
+    position: relative;
+    top: -30px;
+    right: -713px;
+}
+.a4{
+    position: relative;
+    top: -30px;
+    right: -756px;
+}
+.a5{
+    position: relative;
+    top: -30px;
+    right: -795px;
+}
+.zomato-logo{
+    position: relative;
+    width: 18%;
+    top: 120px;
+    right: -60px;
+}
+.a6{
+    font-size: 38px;
+    position: relative;
+    top: 185px;
+    left: -382px;
+}
+.b1{
+    position: relative;
+    width: 16%;
+    height: 10%;
+    top: 211px;
+    right: -380px;
+    color: gray;
+    border-radius: 8px;
+}
+.b2{
+    position: relative;
+    width: 34%;
+    height: 10%;
+    top: 211px;
+    right: -373px;
+    color: gray;
+    border-radius: 8px;
+}
+.b3{
+    width: 30%;
+    height: 28%;
+    position: relative;
+    top: 395px;
+    right: -200px;
+    background-image: url(https://i.ndtvimg.com/i/2017-08/indian-food_650x400_81501923865.jpg);
+    background-size: cover;
+    border-radius: 16.5px;
+}
+.p1{
+    position: relative;
+    top: 385px;
+    right: -238px;
+    font-size: 22px;
+}
+.p2{
+    position: relative;
+    top: 367px;
+    right: -238px;
+    font-size: 16px;
+    color: gray;
+}
+   
+.head1{
+    font-size: 33px;
+    position: relative;
+    top: 410px;
+    right: -193px;
+    font-style: oblique;
+    font-family: Okra, Helvetica, sans-serif;
+    
+}
+ .b4{
+    width: 32%;
+    height: 61px;
+    top: 440px;
+    right: -183px;
+    color: black;
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 18.2px;
+ }
+ .phone
+ {
+ width: 410px;
+ position: relative;
+ left: 340px;
+ top: 44px;
+ }
+ .s1{
+    font-size: 47px;
+    position: relative;
+    top: -413px;
+    right: -803px;
+ }
+ .s2{
+    font-size: 18px;
+    position: relative;
+    top: -413px;
+    right: -803px;
+ }
+ .c1{
+    position: relative;
+    top: 535px;
+    right: -76px;
+    font-size: 33px;
+ }
+ .b5{
+    position: relative;
+    width: 80%;
+    height: 63px;
+    top: 550px;
+    right: -69px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 6.5px;
+    border-color: grey;
+ }
+ .b6{
+    position: relative;
+    width: 80%;
+    height: 63px;
+    top: 585px;
+    right: -69px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 6.5px;
+    border-color: grey;
+ }
+ .b7{
+    position: relative;
+    width: 80%;
+    height: 63px;
+    top: 618px;
+    right: -69px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 6.5px;
+    border-color: grey;
+ }
+ .b8{
+    position: relative;
+    width: 80%;
+    height: 63px;
+    top: 652px;
+    right: -69px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 6.5px;
+    border-color: grey;
+ }
+ .sec{
+    background-color: grey;
+    position: relative;
+    width: 102%;
+    top: 138px;
+    opacity: 0.03;
+    height: 431px;
+ }
+ .image2{
+    top: 285px;
+    position: relative;
+    right: -62px;
+    width: 134px;
+ }
+ .f1{
+    position: relative;
+    top: 336px;
+    left: -73px;
+    font-size: 18px;
+ }
+ .f2{
+    position: relative;
+    top: 186px;
+    left: 300px;
+    font-size: 18px;
+ }
+ .f3{
+    position: relative;
+    top: 186px;
+    left: 390px;
+    font-size: 18px;
+ }
+ .f4{
+    position: relative;
+    top: 186px;
+    left: 470px;
+    font-size: 18px;
+ }
+ 
+ .f5{
+      position: relative;
+      top: 186px;
+      left: 550px;
+      font-size: 18px;
+ }
+ .foot1{
+    position: relative;
+    color: gray;
+    top: 358px;
+    right: -64px;
+ }
+ .foot2{
+    position: relative;
+    color: gray;
+    top: 208px;
+    right: -300px;
+}
+.foot3{
+    position: relative;
+    color: gray;
+    top: 80px;
+    right: -502px;
+}
+.foot4{
+    position: relative;
+    color: gray;
+    top: 42px;
+    right: -753px;
+}
+.back{
+     background-color: bisque;
+     position: relative;
+     top: 514px;
+     height: 473px;
+     width: 120%;
+     opacity: 0.2;
+} 
+.sec1{
+    position: relative;
+    top: -550px;
+    padding-left: 180px;
+}
+ .circ1{
+    position: relative;
+    top: -395px;
+    right: -802px;
+ }
+ .circ2{
+    position: relative;
+    top: -546px;
+    left: 91%;
+ }
+ .play1{
+    position: relative;
+    top: -640px;
+    width: 140px;
+    right: -798px;
+ }
+ .app1{
+   position: relative;
+   top: -640px;
+   width: 140px;
+   right: -845px;
+ }
+ .social1{
+   position: relative;
+    right: -955px;
+    top: -40px;
+ }
+ .social2{
+   position: relative;
+    right: -965px;
+    top: -40px;
+
+ }
+ .social3{
+   position: relative;
+    right: -975px;
+    top: -40px;
+
+ }
+ .social4{
+   
+      position: relative;
+       right: -985px;
+       top: -40px;
+ }
+ .social5{
+   position: relative;
+    right: -995px;
+    top: -40px;
+
+ }
+ .play2{
+   position: relative;
+   left: 853px;
+   width: 140px;
+   top: 86px;
+   
+   
+}
+.app2{
+   position: relative;
+   width: 140px;
+   left: 709px;
+    top: 25px;
+   
+ }
